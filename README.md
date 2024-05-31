@@ -11,7 +11,9 @@
 </p>
 
 ## Requirements
-
+````
+pip install -r requirements.txt
+````
 ## Code
 Code will be released soon!
 
